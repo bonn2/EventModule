@@ -1,4 +1,4 @@
-package net.bonn2;
+package net.bonn2.event;
 
 import net.bonn2.modules.Module;
 import net.bonn2.modules.settings.Settings;
